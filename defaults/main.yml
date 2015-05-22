@@ -1,0 +1,6 @@
+---
+
+# Config
+elao_logentries_config_file:      /etc/le/config
+elao_logentries_config_template:  config/default.j2
+elao_logentries_config:           {}
